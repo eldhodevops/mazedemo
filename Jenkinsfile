@@ -14,7 +14,7 @@ node {
 	    }
         
 	stage('SCM') {
-    		git 'https://github.com/lovelinuxalot/maze-explorer.git'
+    		git 'https://github.com/eldhodevops/mazedemo.git'
   	}
 	
         stage('Build and test') {
