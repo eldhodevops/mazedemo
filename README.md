@@ -1,6 +1,6 @@
 Example of exploring the maze.
 
-Given maze with start point S and exit F and maze localed at start point, it should find the exit:##
+Given maze with start point S and exit F and maze localed at start point, it should find the exit::
 ```
 XXXXXXXXXXXXXXX
 X             X
